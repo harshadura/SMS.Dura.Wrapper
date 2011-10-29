@@ -1,0 +1,39 @@
+############################################
+			SMS DURA API WRAPPER  
+############################################
+
+@author      : Harsha Siriwardena     <harshadura@gmail.com>
+@copyrights  : www.Durapix.org 		  <http://www.durapix.org>
+@license     : GNU GPL v3             <http://www.gnu.org/licenses/>
+
+---------------------------
+Required Software
+---------------------------
+(01)    Java 1.6
+---------------------------
+    Prerequisites
+---------------------------
+    Java Communications Library
+    Java Comm Installation
+    RxTx Installation
+    Apache log4j
+    Apache Jakarta Commons - NET
+    JSMPP Library
+
+---------------------------	
+	External Configurations for the JVM on the targeted machine. (Strictly Recommended!)
+	[These files can be found in <extras> folder of the Project path.)
+---------------------------
+
+Java Comm Installation <comm dir>
+-----------------------------------
+	File comm.jar should go under JDKDIR/jre/lib/ext/ [Normally JDKDIR can be found in > C:\Program Files\Java]
+    File javax.comm.properties should go under JDKDIR/jre/lib/
+    Library files (i.e. win32com.dll for Win32 or the .so Linux library files) should go under JDKDIR/jre/bin/
+	If you have a separate JRE directory, do the same copies for the JREDIR directory!
+
+RxTx Installation <rxtx dir>
+-----------------------------------
+    File RXTXcomm.jar should go under JDKDIR/jre/lib/ext/
+    The necessary library (e.g.. for Linux 32bit, the librxtxSerial.so) should go under JDKDIR/jre/bin/
+	If you have a separate JRE directory, do the same copies for the JREDIR directory!
