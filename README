@@ -2,9 +2,10 @@
 	   SMS DURA API WRAPPER  
 ############################################
 
-@author      : Harsha Siriwardena     <harshadura@gmail.com>
-@copyrights  : Durapix.org 	      http://www.durapix.org
-@license     : GNU GPL v3             http://www.gnu.org/licenses
+@author: Harsha Siriwardena (http://harshadura.net)
+@license: Apache License (see LICENSE file)
+
+Credits: SMSLib (http://smslib.org)
 
 ---------------------------
 Required Software
