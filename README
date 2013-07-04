@@ -2,13 +2,13 @@
 	   SMS DURA API WRAPPER  
 ############################################
 
-@author: Harsha Siriwardena (http://harshadura.net)
+@author: Harsha Siriwardena (http://harshadura.github.io)
 @license: Apache License (see LICENSE file)
 
 Credits: SMSLib (http://smslib.org)
 
 smsdura jar class: https://gist.github.com/harshadura/4702043
-Guide: http://blog.harshadura.net/2011/10/simply-send-sms-using-java-with-your.html
+Guide: http://goo.gl/aqwSu
 
 ---------------------------
 Required Software
